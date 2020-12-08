@@ -3,5 +3,5 @@
  
  
  
- <img  src="FireShot Capture 081 - Laravel - 127.0.0.1.jpg"
+ <img  src="FireShot Capture 228 - Ecommerce - localhost.png"
  alt="test" > 
